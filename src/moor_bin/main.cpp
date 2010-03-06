@@ -69,7 +69,7 @@ int main(int argc, char **argv) {
 						("mboxaddr", boost::program_options::value<std::string>(), "Mirror address (example@example.com)")
 						("mboxpass", boost::program_options::value<std::string>(), "Password for mirror");
 
-        boost::program_options::options_description all("Moorie 0.2.1 (C)by Moorie Team (http://moorie.pl)");
+        boost::program_options::options_description all("Moorie 0.3 (C)by Moorie Team (http://moorie.pl)");
         all.add(general_option).add(download_option).add(upload_option).add(hashcode_option);
         boost::program_options::variables_map vars;
         try
