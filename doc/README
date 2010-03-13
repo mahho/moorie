@@ -13,7 +13,7 @@ W planach istnieje dodanie takze obslugi hashcodow takich programow jak np: Ygoo
 
 Na chwile obecna Moorie umozliwia pobieranie plikow z nastepujacych skrzynek:
 - gmail.com;
-- oparte o google (gala.net, gazeta.pl, mailbox.hu, vivapolska.tv, gde.ru, klikni.cz, livedoor.com, oneindia.in, bigmir.net)
+- oparte o google (gala.net, gazeta.pl, mailbox.hu, vivapolska.tv, gde.ru, klikni.cz, livedoor.com, oneindia.in, bigmir.net, sify.com)
 - mail.ru;
 - myNet.com;
 - oi.com.br;
@@ -80,7 +80,7 @@ Adresy stron:
   http://moorie.pl - strona glowna projektu
   http://forum.moorie.pl- forum dyskusyjne projektu
   http://github.com/cykus/moorie/  - repozytorium na GITcie
-  http://moorie.pl/repo.php - repozytorium z binariam dla roznych dystrybucji
+  http://moorie.pl/pobierz.php - repozytorium z binariam dla roznych dystrybucji
   http://mantis.moorie.pl - zglaszanie bledow
   moorie@moorie.pl - e-mail
 
